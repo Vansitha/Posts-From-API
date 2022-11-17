@@ -1,8 +1,7 @@
-# MAD-Assignment-2-Part-A
+# Food Ordering Application
 
-Mobile application development final assignment part A
+### Sample Screenshots
 
-![Alt text](./sample/Home.png)
-![Alt text](./sample/Resturants.png)
-![Alt text](./sample/Select.png)
-![Alt text](./sample/Checkout.png)
+<img src="./sample/Home.png" width="200"> <img src="./sample/Resturants.png" width="200">
+<img src="./sample/Select.png" width="200"> <img src="./sample/Checkout.png" width="192">
+
